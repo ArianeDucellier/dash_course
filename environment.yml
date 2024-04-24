@@ -1,0 +1,17 @@
+name: dash_course
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - dash
+  - dash-bootstrap-components
+  - dash-mantine-components
+  - jupyter
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - scipy
+
+
+
